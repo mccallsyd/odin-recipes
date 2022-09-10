@@ -1,1 +1,2 @@
 # odin-recipes
+This project is showcasing my skills in utilizing the command line, VS code, Git, and GitHub. I have demonstarted my ability to use create repositories, utilize the terminal to clone my repository. and create a brief intro of this project in a file. 
