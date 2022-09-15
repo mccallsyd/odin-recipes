@@ -1,0 +1,32 @@
+body {
+    background-color: salmon;
+    color: black;
+    font-family: 'Garamond';
+}
+
+
+h1, h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color:blueviolet;
+}
+
+a:active {
+    color: black;
+}
+
